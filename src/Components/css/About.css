@@ -1,0 +1,9 @@
+.container-about{
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+}
+
+.about_me_img{
+    width: 400px
+}
