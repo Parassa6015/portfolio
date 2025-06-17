@@ -121,7 +121,6 @@
 }
 
 
-/* Resume Button */
 .resume-btn {
   background-color: #e67e22;
   color: white;
@@ -133,10 +132,7 @@
   transition: background 0.3s ease;
 }
 
-
-
-/* GitHub Icon */
-.social-icon {
+.github-icon {
   width: 40px;
   height: 40px;
   transition: transform 0.2s ease;
