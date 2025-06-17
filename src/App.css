@@ -12,3 +12,7 @@
   margin: 0px 29px 0px 29px;
 }
 
+
+html {
+  scroll-behavior: smooth;
+}
