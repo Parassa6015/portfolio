@@ -7,7 +7,7 @@ const About = () => {
         <h2 className="about-title">About Me</h2>
         <div className="container-about">
             <div className="about-image">
-            <img src="/images/IMG_1385.jpg" alt="Paras" />
+            <img src={`${process.env.PUBLIC_URL}/images/IMG_1385.jpg`} alt="Paras" />
             </div>
             <div className="about-text">
             <p><strong>I'm a Software Engineer</strong> with a passion for building scalable, robust, and user-focused applications. I enjoy crafting simple yet elegant solutions — experiences that not only look great, but are thoughtfully engineered for performance, functionality, and usability.</p>
