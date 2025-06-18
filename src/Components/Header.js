@@ -5,7 +5,7 @@ const Header1 = () => {
     return (
         <div>
         <header className="main-header">
-        <h2 className="title-header">My portfolio</h2>
+        <h2 className="title-header">PS.</h2>
         <nav style={{ width: '400px' }}>
             <ul className="nav-list">
                 <li><a href="#about">About</a></li>
